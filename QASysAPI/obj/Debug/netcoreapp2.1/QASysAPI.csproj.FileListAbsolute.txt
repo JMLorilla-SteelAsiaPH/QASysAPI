@@ -1,0 +1,17 @@
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\bin\Debug\netcoreapp2.1\QASysAPI.deps.json
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\bin\Debug\netcoreapp2.1\QASysAPI.runtimeconfig.json
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\bin\Debug\netcoreapp2.1\QASysAPI.runtimeconfig.dev.json
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\bin\Debug\netcoreapp2.1\QASysAPI.dll
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\bin\Debug\netcoreapp2.1\QASysAPI.pdb
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\obj\Debug\netcoreapp2.1\QASysAPI.AssemblyInfoInputs.cache
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\obj\Debug\netcoreapp2.1\QASysAPI.AssemblyInfo.cs
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\obj\Debug\netcoreapp2.1\QASysAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\obj\Debug\netcoreapp2.1\QASysAPI.RazorAssemblyInfo.cache
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\obj\Debug\netcoreapp2.1\QASysAPI.RazorAssemblyInfo.cs
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\obj\Debug\netcoreapp2.1\QASysAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\obj\Debug\netcoreapp2.1\QASysAPI.dll
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\obj\Debug\netcoreapp2.1\QASysAPI.pdb
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\obj\Debug\netcoreapp2.1\QASysAPI.genruntimeconfig.cache
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\bin\Debug\netcoreapp2.1\appsettings.production.json
+C:\Users\Ella\source\repos\QASysAPI\QASysAPI\obj\Debug\netcoreapp2.1\QASysAPI.csprojAssemblyReference.cache

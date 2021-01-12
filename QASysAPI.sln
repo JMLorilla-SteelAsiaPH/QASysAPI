@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QASysAPI", "QASysAPI\QASysAPI.csproj", "{E3C4DB04-6A7E-45CE-B472-B4B43CE7634B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3C4DB04-6A7E-45CE-B472-B4B43CE7634B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C4DB04-6A7E-45CE-B472-B4B43CE7634B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C4DB04-6A7E-45CE-B472-B4B43CE7634B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C4DB04-6A7E-45CE-B472-B4B43CE7634B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C80FC9-F4F5-4A65-8624-C8B4C1314887}
+	EndGlobalSection
+EndGlobal
