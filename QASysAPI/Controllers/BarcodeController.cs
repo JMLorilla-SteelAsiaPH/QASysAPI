@@ -30,7 +30,10 @@ namespace QASysAPI.Controllers
         public IActionResult GetBarcodes()
         {
             //_logger.LogInformation("It works!");
-            return Ok();
+
+            var barcodeEntities = _qaSysRepository.GetBarcodes();
+
+            return Ok(_mapper.Map<IEnumerable<BarcodeDto>>(barcodeEntities));
         }
         
         [HttpGet("{id}")]

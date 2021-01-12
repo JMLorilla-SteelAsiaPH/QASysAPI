@@ -23,7 +23,7 @@ namespace QASysAPI.Services
 
         public IEnumerable<Barcode> GetBarcodes()
         {
-            throw new NotImplementedException();
+            return _context.barcode.OrderBy(c => c.id).ToList();
         }
 
     }
