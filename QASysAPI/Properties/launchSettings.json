@@ -12,6 +12,7 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
+        "connectionStrings:QASysDBConnectionString": "Server=DESKTOP-QP7KP41\\SQLEXPRESS;Initial Catalog=QA_Sys;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
