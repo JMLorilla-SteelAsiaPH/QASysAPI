@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace QASysAPI.Services
 {
-    public class QASysRepository : IQASysRepository
+    public class BarcodeRepository : IBarcodeRepository
     {
         private readonly BarcodeContext _context;
 
-        public QASysRepository(BarcodeContext context)
+        public BarcodeRepository(BarcodeContext context)
         {
             _context = context ?? throw new ArgumentNullException(nameof(context));
         }

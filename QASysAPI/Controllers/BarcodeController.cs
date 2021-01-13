@@ -17,10 +17,10 @@ namespace QASysAPI.Controllers
     public class BarcodeController : ControllerBase
     {
         //private readonly ILogger<BarcodeController> _logger;
-        private readonly IQASysRepository _qaSysRepository;
+        private readonly IBarcodeRepository _qaSysRepository;
         private readonly IMapper _mapper;
 
-        public BarcodeController(IMapper mapper, IQASysRepository QASysRepository)
+        public BarcodeController(IMapper mapper, IBarcodeRepository QASysRepository)
         {
             _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
             _qaSysRepository = QASysRepository ?? throw new ArgumentNullException(nameof(QASysRepository));

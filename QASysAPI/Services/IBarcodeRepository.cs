@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QASysAPI.Services
 {
-    public interface IQASysRepository
+    public interface IBarcodeRepository
     {
         Barcode GetBarcode(int id);
 

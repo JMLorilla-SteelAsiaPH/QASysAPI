@@ -45,7 +45,7 @@ namespace QASysAPI
 
             services.AddDbContext<BarcodeContext>(o => { o.UseSqlServer(connectionString); });
 
-            services.AddScoped<IQASysRepository, QASysRepository>();
+            services.AddScoped<IBarcodeRepository, BarcodeRepository>();
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
         }
